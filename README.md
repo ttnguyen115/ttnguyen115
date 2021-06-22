@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Thanh Trung Nguyen - aka <a href="https://jettportfolio.vercel.app">Jett</a></h1>
+<h1 align="center">Hi 👋, I'm Thanh Trung Nguyen - aka <a href="https://jettportfolio.vercel.app">Jett</a></h1>
 <h3 align="center">I'm a Web Frontend Developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttnguyen115&label=Profile%20views&color=0e75b6&style=flat" alt="ttnguyen115" /> </p>
