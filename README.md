@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Thanh Trung Nguyen - aka Jett</h1>
+<h1 align="center">Hi 👋, I'm I'm Thanh Trung Nguyen - aka <a href="https://jettportfolio.vercel.app">Jett</a></h1>
 <h3 align="center">I'm a Web Frontend Developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttnguyen115&label=Profile%20views&color=0e75b6&style=flat" alt="ttnguyen115" /> </p>
@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttnguyen115" alt="ttnguyen115" /></a> </p>
 
 - 🔭 I just launched my social network project [jGram](http://jgramv2.herokuapp.com)
+
+- 👯 I’m looking to work in a technology company as **a web developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ttnguyen115](https://github.com/ttnguyen115)
 
